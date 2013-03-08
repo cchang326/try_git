@@ -1,5 +1,5 @@
 //
-// Copyright (c) 2008 Microsoft Corporation. All Rights Reserved.
+  // Copyright (c) 2008 Microsoft Corporation. All Rights Reserved.
 //
 // Abstract:
 //
